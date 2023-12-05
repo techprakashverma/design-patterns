@@ -1,6 +1,6 @@
 package com.pv.dp.singleton.enumimpl;
 
-public class EnumTest {
+public class EnumTestClient {
     public static void main(String[] args) {
         Singleton singleton1 = Singleton.GETINSTANCE;
         Singleton singleton2 = Singleton.GETINSTANCE;

@@ -1,6 +1,6 @@
 package com.pv.dp.singleton.cloning;
 
-public class CloneTest {
+public class CloneTestClient {
     public static void main(String[] args) throws CloneNotSupportedException {
 
         SingletonClone originalSingletonObj = SingletonClone.getInstance();

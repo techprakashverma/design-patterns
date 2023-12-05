@@ -2,7 +2,7 @@ package com.pv.dp.singleton.serialization;
 
 import java.io.*;
 
-public class SerializetionTest {
+public class SerializetionTestClient {
     public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException, FileNotFoundException {
         SingletonSerialize originalObj = SingletonSerialize.getInstance();
 

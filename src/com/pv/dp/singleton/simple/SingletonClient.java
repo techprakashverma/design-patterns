@@ -4,7 +4,7 @@ import java.io.*;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-public class SingletonTest {
+public class SingletonClient {
     public static void main(String[] args) throws NoSuchMethodException, ClassNotFoundException, InvocationTargetException, InstantiationException, IllegalAccessException, CloneNotSupportedException, IOException {
         Singleton originalInstance = Singleton.getInstance();
 
