@@ -3,7 +3,7 @@ package com.pv.dp.singleton.reflection;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-public class ReflectionTest {
+public class ReflectionTestClient {
 
     public static void main(String[] args) throws NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, ClassNotFoundException, InvocationTargetException {
 
